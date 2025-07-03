@@ -1,0 +1,21 @@
+{
+  "name": "StudyZen - Class 6-12 Notes & Study Materials",
+  "short_name": "StudyZen",
+  "description": "Access free NCERT solutions, notes, sample papers, and study materials for classes 6-12.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 

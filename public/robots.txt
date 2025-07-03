@@ -1,0 +1,18 @@
+# StudyZen Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.studyzen.com/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+
+# Crawl delay for specific bots
+User-agent: Googlebot
+Crawl-delay: 1
+
+User-agent: Bingbot
+Crawl-delay: 1 
